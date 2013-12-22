@@ -1,4 +1,4 @@
-// Startet den Befehl "compass watch resources/sass/", wenn den Projektordner in Sublime Offen hat.
+// Startet den Befehl "compass watch resources/sass/", wenn der Projektordner in Sublime offen ist.
 {
 	"working_dir": "${project_path:${folder}}",
 
