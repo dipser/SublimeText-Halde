@@ -1,0 +1,14 @@
+// Startet einen Webserver für das aktuelle Projektverzeichnis
+{
+	"working_dir": "${project_path:${folder}}",
+
+	"osx": {
+    	"cmd": ["/usr/local/bin/ant", "-f", "build.xml", "app-build-impl.WebServer - Start Local"],
+    },
+
+    "windows": {
+	},
+    
+	"linux": {
+	}
+}
